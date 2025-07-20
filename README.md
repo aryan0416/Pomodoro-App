@@ -21,7 +21,8 @@ Welcome to the **Pomodoro Timer App**, a clean, simple, and functional productiv
 
 ## 📸 Preview
 
-*(Include a screenshot of the app UI if available.)*
+<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/33d7c27c-985f-427a-8b17-b5b7b6543bf9" />
+
 
 ---
 
